@@ -1,2 +1,2 @@
 # Algorithms
-codes for algorithms and data structures.
+Codes for algorithms and data structures.
